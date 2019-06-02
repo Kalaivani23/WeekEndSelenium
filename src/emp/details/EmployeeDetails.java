@@ -31,5 +31,10 @@ public class EmployeeDetails {
 		con.close();
 		System.out.println("Kalai");
 		System.out.println("Kalaivani");
+		int a = 10;
+		int b = 20;
+		int c = a + b;
+		System.out.println(c);
+
 	}
 }
