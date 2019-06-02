@@ -29,6 +29,8 @@ public class EmployeeDetails {
 		}
 		// Close the DB Connection
 		con.close();
+		System.out.println("Kalai");
+		System.out.println("Kalaivani");
 		int a = 10;
 		int b = 20;
 		int c = a + b;
